@@ -1,0 +1,1 @@
+{"ast":null,"code":"export{default}from'@expo/next-adapter/document';","map":{"version":3,"sources":["/home/andrii/Addspire/Kepp alive/test_keepalive_web/pages/_document.js"],"names":[],"mappings":"AACA,OAAA,OAAA,KAAA,6BAAA","sourcesContent":["// @generated: @expo/next-adapter@2.1.52\nexport { default } from '@expo/next-adapter/document';\n"]},"metadata":{},"sourceType":"module"}
